@@ -56,6 +56,7 @@ We are a robotics integrator developing technology for autonomous disassembly of
 - [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d) - Paul-Louis Prove
 - [TensorFlow Official Tutorials for Beginners and for Experts](https://www.tensorflow.org/tutorials) - TensorFlow
 - [PyTorch Official Tutorials](https://pytorch.org/tutorials/) - PyTorch
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### Books
 - [Deep Learning for Coders with fastai and PyTorch](https://github.com/fastai/fastbook) - fast.ai
